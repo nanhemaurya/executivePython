@@ -1,5 +1,5 @@
 # RequestUnknown
-from ApiHandler import ApiRequestInitiator, ResponseType
+from ApiHandler import ResponseType
 from BaseRequestHandler import BaseRequestHandler
 
 
